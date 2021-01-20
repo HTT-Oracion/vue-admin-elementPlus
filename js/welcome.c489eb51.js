@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["welcome"],{eec5:function(e,n,c){"use strict";c.r(n);var o=c("7a23");function t(e,n,c,t,a,r){return Object(o["openBlock"])(),Object(o["createBlock"])("h1",null,"welcome to admin system design vue")}var a={name:"Welcome"};a.render=t;n["default"]=a}}]);
+//# sourceMappingURL=welcome.c489eb51.js.map
